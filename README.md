@@ -23,6 +23,7 @@ Product Versions
 
 Version History
 ---------------
+* [V_1.1.1](https://github.com/sparkfun/Bargraph_Breakout_Kit/tree/V_1.1.1) - Fixed and pulled lib
 * [V_1.1.0](https://github.com/sparkfun/Bargraph_Breakout_Kit/tree/V_1.1.0) - Updated to new library structure
 * [V_1.0.0] - Initial un-tagged version
 
